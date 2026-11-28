@@ -1,1 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://huryntaras.github.io/the-world-of-facts/sitemap.xml
 
